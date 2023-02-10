@@ -1,2 +1,2 @@
 #!/bin/bash
-chown
+sudo chown you some_file
