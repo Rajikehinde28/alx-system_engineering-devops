@@ -1,2 +1,2 @@
-#!/bin/bash
--empty File
+#!/bin/bas
+find . -empty -printf %f'\n'
